@@ -1,3 +1,5 @@
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
 # Chronos ⏳
 
 **Chronos** is a time-locked encryption vault built in Go.
